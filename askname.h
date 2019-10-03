@@ -1,3 +1,3 @@
 /* askname.h */
 void askname(char *first, char *last);
-//Важные изменения
+//Важные изменения 2.0
